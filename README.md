@@ -1,4 +1,4 @@
-#### Rails开发技术栈
+### Rails开发技术栈
 * 版本控制
   * Git
   * [Gitlab](https://github.com/gitlabhq/gitlabhq)
@@ -9,7 +9,7 @@
   * Puma
 * Web服务器
   * Nginx
-  * Passenger
+  * Apache
 * 性能监控工具
   * [New Relic](http://newrelic.com/)
 * 部署
