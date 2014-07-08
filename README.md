@@ -18,7 +18,11 @@
   * bugfree
   * [squash](http://squash.io/)
 * 持续集成
+  * [Jenkins](http://jenkins-ci.org/)
   * [Travis CI](https://travis-ci.org/)
+* 持续交付
+  * [Go](http://www.go.cd/)
+  * [Codeship](https://codeship.io/)
 * 测试
   * [Rspec](https://github.com/rspec/rspec)
 * 进程管理工具
