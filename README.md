@@ -1,5 +1,8 @@
-Rails开发技术栈
-===============
+#### Rails开发技术栈
+* 版本控制
+  * Git
+  * [Gitlab](https://github.com/gitlabhq/gitlabhq)
+  * [Github](https://github.com)
 * 应用服务器
   * Passenger
   * Unicorn
@@ -13,5 +16,8 @@ Rails开发技术栈
   * [Capistrano](https://github.com/capistrano/capistrano)
 * Bug管理
   * bugfree
+  * [squash](http://squash.io/)
 * 持续集成
   * [Travis CI](https://travis-ci.org/)
+* 测试
+  * [Rspec]()
