@@ -20,4 +20,7 @@
 * 持续集成
   * [Travis CI](https://travis-ci.org/)
 * 测试
-  * [Rspec]()
+  * [Rspec](https://github.com/rspec/rspec)
+* 进程管理工具
+  * [Invoker](https://github.com/code-mancers/invoker)
+  * [Foreman](https://github.com/ddollar/foreman)
