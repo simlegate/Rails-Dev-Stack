@@ -28,3 +28,5 @@
 * 进程管理工具
   * [Invoker](https://github.com/code-mancers/invoker)
   * [Foreman](https://github.com/ddollar/foreman)
+* PDF开发相关
+  * [prawn](https://github.com/prawnpdf/prawn)
